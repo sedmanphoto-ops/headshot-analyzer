@@ -1,0 +1,8 @@
+{
+  "name": "headshot-analyzer",
+  "version": "1.0.0",
+  "description": "Professional headshot analysis tool",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
